@@ -1,0 +1,84 @@
+/* Downloaded from https://en.bestfonts.pro/fonts_files/5ef625d7280d03543bf3db89/font.zip */
+
+@font-face {
+    font-family: 'Minion 3';
+    src: local('Minion3-MediumItalic'),
+        url('Minion3-MediumItalic.woff2') format('woff2'),
+        url('Minion3-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Minion 3';
+    src: local('Minion3-BoldItalic'),
+        url('Minion3-BoldItalic.woff2') format('woff2'),
+        url('Minion3-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Minion 3';
+    src: local('Minion3-SemiBoldItalic'), local('Minion3-SemiboldItalic'),
+        url('Minion3-SemiboldItalic.woff2') format('woff2'),
+        url('Minion3-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Minion 3';
+    src: local('Minion3-Medium'),
+        url('Minion3-Medium.woff2') format('woff2'),
+        url('Minion3-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Minion 3';
+    src: local('Minion3-Bold'),
+        url('Minion3-Bold.woff2') format('woff2'),
+        url('Minion3-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Minion 3 Caption';
+    src: url('Minion3Caption-Medium.eot');
+    src: local('Minion3Caption-Medium'),
+        url('Minion3Caption-Medium.woff2') format('woff2'),
+        url('Minion3Caption-Medium.woff') format('woff'),
+        url('Minion3Caption-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Minion 3';
+    src: local('Minion3-Italic'),
+        url('Minion3-Italic.woff2') format('woff2'),
+        url('Minion3-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Minion 3';
+    src: local('Minion3-SemiBold'), local('Minion3-Semibold'),
+        url('Minion3-Semibold.woff2') format('woff2'),
+        url('Minion3-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Minion 3';
+    src: local('Minion3-Regular'),
+        url('Minion3-Regular.woff2') format('woff2'),
+        url('Minion3-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
