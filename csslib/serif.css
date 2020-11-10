@@ -32,7 +32,15 @@
 	font-language-override: "KOR";
 }
 /* Others */
-:lang(en), :lang(zh-Latn) {
+:lang(en),
+:lang(zh-Latn),
+:lang(cmn-Latn),
+:lang(ltc-Latn),
+:lang(lzh-Latn),
+:lang(och-Latn),
+:lang(yue-Latn),
+:lang(ja-Latn),
+:lang(ko-Latn) {
 	font-family: 'Minion 3', sans-serif, sans-serif;
 }
 :lang(en-x-code) {
