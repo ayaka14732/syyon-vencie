@@ -1,5 +1,5 @@
 @import url('https://cdn.jsdelivr.net/npm/hanamin@latest/HanaMin.min.css');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;600&family=Noto+Serif+SC:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;700&family=Noto+Serif+KR:wght@400;700&family=Noto+Serif+SC:wght@400;700&display=swap');
 @import url('https://cdn.jsdelivr.net/gh/sugina-dev/cdn@20200718/fonts/CharisSIL-5.000-web/CharisSIL.css');
 @import url('https://cdn.jsdelivr.net/gh/nushu-script/NotoTraditionalNushu@woff-v1.0/index.css');
 @import url('https://cdn.jsdelivr.net/gh/ayaka14732/syyon-vencie@6528a13/minion3/minion3.css');
@@ -10,7 +10,7 @@
 }
 /* ZHH (1) */
 :lang(yue), :lang(lzh), :lang(ltc), :lang(och) {
-	font-family: 'Minion 3', 'Source Han Serif K', 'Noto Serif CJK KR', source-han-serif-korean, HanaMin, serif, serif;
+	font-family: 'Minion 3', 'Source Han Serif K', 'Noto Serif CJK KR', "Noto Serif KR", HanaMin, serif, serif;
 	font-language-override: "KOR";
 }
 /* JAN (1) */
@@ -19,7 +19,7 @@
 }
 /* KOR (1) */
 :lang(ko) {
-	font-family: 'Minion 3', 'Source Han Serif K', 'Noto Serif CJK KR', source-han-serif-korean, HanaMin, serif, serif;
+	font-family: 'Minion 3', 'Source Han Serif K', 'Noto Serif CJK KR', "Noto Serif KR", HanaMin, serif, serif;
 }
 /* ZHS (2) */
 :lang(yue-Hans) {
@@ -28,7 +28,7 @@
 }
 /* ZHH (2) */
 :lang(zh-HK), :lang(zh-TW), :lang(zh-Hant), :lang(cmn-Hant) {
-	font-family: 'Minion 3', 'Source Han Serif K', 'Noto Serif CJK KR', source-han-serif-korean, HanaMin, serif, serif;
+	font-family: 'Minion 3', 'Source Han Serif K', 'Noto Serif CJK KR', "Noto Serif KR", HanaMin, serif, serif;
 	font-language-override: "KOR";
 }
 /* Others */
@@ -44,10 +44,9 @@
 	font-family: 'Minion 3', sans-serif, sans-serif;
 }
 :lang(en-x-code) {
-	font-family: monospace, monospace, CharisSILW, 'Source Han Serif K', 'Noto Serif CJK KR', source-han-serif-korean, HanaMin, monospace, monospace;
+	font-family: monospace, monospace, CharisSILW, 'Source Han Serif K', 'Noto Serif CJK KR', "Noto Serif KR", HanaMin, monospace, monospace;
 	font-language-override: "KOR";
 }
-:lang("*-fonipa"),
 :lang(en-fonipa),
 :lang(zh-Latn-fonipa),
 :lang(cmn-Latn-fonipa),
