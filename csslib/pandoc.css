@@ -31,6 +31,11 @@ p, ul, ol, table, pre {
 	color: #5c5c5c;
 }
 
+u {
+	border-bottom:1px solid #a4a4a4;
+	text-decoration: none;
+}
+
 a {
 	color: inherit;
 	border-bottom: 1px solid #a4a4a4;
@@ -59,7 +64,7 @@ a.icon:hover, a.footnote-back:hover, a.footnote-ref:hover, .sourceCode a:hover, 
 
 .author { display: none; }
 
-::selection { background-color: #ececec; }
+::selection { background-color: LavenderBlush; }
 
 img {
 	max-width: 100%;
