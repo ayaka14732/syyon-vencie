@@ -77,8 +77,8 @@ header > h1.title {
 blockquote {
 	color: #666666;
 	margin: 0;
-	padding-left: 3em;
-	border-left: 0.5em #EEE solid;
+	padding-left: 1em;
+	border-left: 0.5rem #EEE solid;
 }
 
 hr {
