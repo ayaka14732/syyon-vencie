@@ -16,10 +16,12 @@
 /* JAN (1) */
 :lang(ja) {
 	font-family: 'Minion 3', "Source Han Serif", "Noto Serif CJK JP", "Noto Serif JP", HanaMin, serif, serif;
+	font-language-override: "JAN";
 }
 /* KOR (1) */
 :lang(ko) {
 	font-family: 'Minion 3', 'Source Han Serif K', 'Noto Serif CJK KR', "Noto Serif KR", HanaMin, serif, serif;
+	font-language-override: "KOR";
 }
 /* ZHS (2) */
 :lang(yue-Hans) {
